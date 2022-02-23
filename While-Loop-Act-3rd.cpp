@@ -18,7 +18,7 @@ using namespace std;
 			
 	}
 	while (again=='Y' || again == 'y');
-	system("puse");
+	system("pause");
 	
 	return 0;
 }
